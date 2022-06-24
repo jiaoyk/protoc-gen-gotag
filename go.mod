@@ -1,4 +1,4 @@
-module github.com/jiaoyk/protoc-gen-gotag
+module github.com/srikrsna/protoc-gen-gotag
 
 go 1.16
 
@@ -12,4 +12,4 @@ require (
 	google.golang.org/protobuf v1.28.0
 )
 
-replace github.com/srikrsna/protoc-gen-gotag => github.com/jiaoyk/protoc-gen-gotag v0.6.3
+replace github.com/srikrsna/protoc-gen-gotag => github.com/jiaoyk/protoc-gen-gotag v0.6.4
