@@ -11,3 +11,5 @@ require (
 	golang.org/x/text v0.3.7 // indirect
 	google.golang.org/protobuf v1.28.0
 )
+
+replace github.com/srikrsna/protoc-gen-gotag => github.com/jiaoyk/protoc-gen-gotag v0.6.3
